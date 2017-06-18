@@ -21,7 +21,7 @@ public class C3p0Util {
             mDataSource.setDriverClass("com.mysql.jdbc.Driver");
             mDataSource.setJdbcUrl("jdbc:mysql://localhost:3306/course");
             mDataSource.setUser("root");
-            mDataSource.setPassword("root");
+            mDataSource.setPassword("ROOT");
             conn = mDataSource.getConnection();
         } catch (Exception e) {
             e.printStackTrace();
@@ -31,14 +31,15 @@ public class C3p0Util {
     public static void insert(User user) throws SQLException {
         if (conn != null) {
             Statement stmt = conn.createStatement();
-            stmt.execute("insert into user(name,password) VALUES ('" + user.getName() + "','" + user.getPassword() + "')");
+            stmt.execute("insert into user(username,password) VALUES ('" + user.getName() + "','"
+                    + MD5Utils.getMd5(user.getPassword()) + "')");
         }
     }
 
     public static User query(String name) throws SQLException {
         if (conn != null) {
             Statement stmt = conn.createStatement();
-            ResultSet resultSet = stmt.executeQuery("select * from user where name='" + name + "'");
+            ResultSet resultSet = stmt.executeQuery("select * from user where username='" + name + "'");
             User user = null;
             if (resultSet.next()) {
                 user = new User();

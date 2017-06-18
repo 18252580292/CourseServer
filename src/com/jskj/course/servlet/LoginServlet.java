@@ -6,17 +6,13 @@ import com.jskj.course.domain.Result;
 import com.jskj.course.domain.User;
 import com.jskj.course.util.C3p0Util;
 
-import java.io.IOException;
-import java.sql.SQLException;
-
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
+import java.io.IOException;
+import java.sql.SQLException;
 
-/**
- * Created by xuecheng.cui on 2017/2/4.
- */
 public class LoginServlet extends HttpServlet {
 
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
