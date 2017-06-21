@@ -2,76 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff137587-1fc4-4282-9aee-cca8a33b132a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jskj/course/util/MD5Utils.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/json/ACCESSORY_URL.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/json/BAG_URL.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/json/CALL_CENTER.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/json/CLOSE_STORE.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/json/COMIC_STORE.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/json/COSPLAY_STORE.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/json/DIGIT_URL.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/json/DRESS_UP_URL.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/json/FOOD_STORE.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/json/GAME_STORE.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/json/GAME_URL.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/json/GOODSINFO_URL.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/json/GUFENG_STORE.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/json/HOME_PRODUCTS_URL.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/json/HOME_URL.json.bak" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/json/HOT_POST_URL.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/json/JACKET_URL.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/json/MORE_STORE.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/json/NEW_POST_URL.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/json/OVERCOAT_URL.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/json/PANTS_URL.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/json/SHOUSHI_STORE.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/json/SKIRT_URL.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/json/STATIONERY_URL.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/json/STICK_STORE.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/json/TAG_URL.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/json/WENJU_STORE.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/json/json_download.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/json/urls_00.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/json/urls_01.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/json/urls_02.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/json/urls_03.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/json/urls_04.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/json/urls_05.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/json/urls_06.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/json/urls_07.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/json/urls_08.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/json/urls_09.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/json/urls_10.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/json/urls_11.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/json/urls_12.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/json/urls_13.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/json/urls_14.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/json/urls_15.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/json/urls_16.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/json/urls_17.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/json/urls_18.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/json/urls_19.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/json/urls_20.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/json/urls_21.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/json/urls_22.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/json/urls_23.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/json/urls_24.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/json/urls_25.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/json/urls_26.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/json/urls_27.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/json/urls_28.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/json/urls_29.json" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/WEB-INF/classes/com/jskj/course/TestDemo.class" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/com/jskj/course/TestDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/WEB-INF/classes/com/jskj/course/servlet/LoginServlet.class" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/com/jskj/course/servlet/LoginServlet.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/WEB-INF/classes/com/jskj/course/servlet/RegistServlet.class" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/com/jskj/course/servlet/RegistServlet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/video/major/neural_net_02.mp4" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/CourseServer_war_exploded/WEB-INF/classes/com/jskj/course/util/C3p0Util.class" afterPath="$PROJECT_DIR$/out/artifacts/CourseServer_war_exploded/WEB-INF/classes/com/jskj/course/util/C3p0Util.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/WEB-INF/classes/com/jskj/course/util/C3p0Util.class" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/com/jskj/course/util/C3p0Util.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jskj/course/TestDemo.java" afterPath="$PROJECT_DIR$/src/com/jskj/course/TestDemo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jskj/course/servlet/LoginServlet.java" afterPath="$PROJECT_DIR$/src/com/jskj/course/servlet/LoginServlet.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jskj/course/servlet/RegistServlet.java" afterPath="$PROJECT_DIR$/src/com/jskj/course/servlet/RegistServlet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/CourseServer.iml" afterPath="$PROJECT_DIR$/.idea/CourseServer.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/junit_junit_4_12.xml" afterPath="$PROJECT_DIR$/.idea/libraries/junit_junit_4_12.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/CourseServer_war_exploded/all_course.json" afterPath="$PROJECT_DIR$/out/artifacts/CourseServer_war_exploded/all_course.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/CourseServer_war_exploded/json/all_course.json" afterPath="$PROJECT_DIR$/out/artifacts/CourseServer_war_exploded/json/all_course.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jskj/course/util/C3p0Util.java" afterPath="$PROJECT_DIR$/src/com/jskj/course/util/C3p0Util.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/index.jsp" afterPath="$PROJECT_DIR$/web/index.jsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/json/all_course.json" afterPath="$PROJECT_DIR$/web/json/all_course.json" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -105,22 +44,9 @@
       <file leaf-file-name="LoginServlet.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/jskj/course/servlet/LoginServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
+            <state relative-caret-position="348">
               <caret line="23" column="49" lean-forward="false" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="C3p0Util.class" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/out/artifacts/CourseServer_war_exploded/WEB-INF/classes/com/jskj/course/util/C3p0Util.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="24" column="26" lean-forward="false" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
-              <folding>
-                <marker date="1497698228835" expanded="true" signature="651:766" ph="insert into user... " />
-                <marker date="1497698228835" expanded="true" signature="985:1033" ph="select * fro... user" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -128,23 +54,62 @@
       <file leaf-file-name="RegistServlet.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/jskj/course/servlet/RegistServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
+            <state relative-caret-position="377">
               <caret line="24" column="36" lean-forward="false" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="C3p0Util.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="C3p0Util.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/jskj/course/util/C3p0Util.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-399">
-              <caret line="27" column="9" lean-forward="false" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+            <state relative-caret-position="493">
+              <caret line="23" column="41" lean-forward="false" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
               <folding>
-                <marker date="1497698227374" expanded="true" signature="1001:1071" ph="insert into user... " />
-                <marker date="1497698227374" expanded="true" signature="1001:1136" ph="insert into user... " />
-                <marker date="1497698227374" expanded="true" signature="1355:1403" ph="select * fro... user" />
+                <marker date="1497936370921" expanded="true" signature="1001:1136" ph="insert into user... " />
+                <marker date="1497936370921" expanded="true" signature="1355:1403" ph="select * fro... user" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="all_course.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/json/all_course.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="145">
+              <caret line="20" column="36" lean-forward="false" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HOME_URL.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/out/artifacts/CourseServer_war_exploded/HOME_URL.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="580">
+              <caret line="20" column="8" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="category.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/out/artifacts/CourseServer_war_exploded/category.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="category.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/json/category.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -152,11 +117,9 @@
       <file leaf-file-name="MD5Utils.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/jskj/course/util/MD5Utils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
+            <state relative-caret-position="232">
               <caret line="9" column="31" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -164,18 +127,8 @@
       <file leaf-file-name="TestDemo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/jskj/course/TestDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
+            <state relative-caret-position="174">
               <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" column="22" lean-forward="false" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -209,6 +162,8 @@
         <option value="$PROJECT_DIR$/src/com/jskj/course/TestDemo.java" />
         <option value="$PROJECT_DIR$/src/com/jskj/course/util/MD5Utils.java" />
         <option value="$PROJECT_DIR$/src/com/jskj/course/util/C3p0Util.java" />
+        <option value="$PROJECT_DIR$/out/artifacts/CourseServer_war_exploded/all_course.json" />
+        <option value="$PROJECT_DIR$/web/json/all_course.json" />
       </list>
     </option>
   </component>
@@ -226,10 +181,10 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1370" />
-    <option name="height" value="744" />
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
+    <option name="width" value="1942" />
+    <option name="height" value="1042" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -246,6 +201,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -304,7 +260,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
+              <option name="myItemId" value="video" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -318,11 +274,15 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
+              <option name="myItemId" value="web" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="course" />
+              <option name="myItemId" value="video" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="major" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -336,36 +296,144 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="json" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CourseServer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CourseServer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="out" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="artifacts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CourseServer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CourseServer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="out" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="artifacts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CourseServer_war_exploded" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CourseServer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CourseServer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="out" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="artifacts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CourseServer_war_exploded" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CourseServer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CourseServer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="out" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="artifacts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CourseServer_war_exploded" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="classes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jskj" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="course" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="util" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/WEB-INF" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\project\javaee\CourseServer\web\video\major" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -778,7 +846,7 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <configuration default="false" name="tomcat7" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.64" ALTERNATIVE_JRE_ENABLED="false">
+    <configuration default="false" name="tomcat7" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.64" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.8">
       <option name="OPEN_IN_BROWSER" value="false" />
       <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
       <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
@@ -871,11 +939,13 @@
       <workItem from="1497681293599" duration="2097000" />
       <workItem from="1497683603979" duration="7061000" />
       <workItem from="1497779197689" duration="1269000" />
+      <workItem from="1497933329843" duration="2893000" />
+      <workItem from="1498008875662" duration="3548000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11643000" />
+    <option name="totallyTimeSpent" value="18084000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -887,7 +957,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1370" height="744" extended-state="0" />
+    <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -910,9 +980,9 @@
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.567753" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5677019" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23282443" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23650108" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -949,9 +1019,9 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.567753" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5677019" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23282443" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23650108" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -984,6 +1054,147 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/jskj/course/servlet/LoginServlet.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="23" column="49" lean-forward="false" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jskj/course/servlet/RegistServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="24" column="36" lean-forward="false" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jskj/course/util/C3p0Util.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="23" column="41" lean-forward="false" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+          <folding>
+            <marker date="1497936370921" expanded="true" signature="1001:1136" ph="insert into user... " />
+            <marker date="1497936370921" expanded="true" signature="1355:1403" ph="select * fro... user" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/json/all_course.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/artifacts/CourseServer_war_exploded/all_course.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/artifacts/CourseServer_war_exploded/category.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/json/category.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jskj/course/util/MD5Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="9" column="31" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jskj/course/TestDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/artifacts/CourseServer_war_exploded/HOME_URL.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jskj/course/servlet/LoginServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="23" column="49" lean-forward="false" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/artifacts/CourseServer_war_exploded/WEB-INF/classes/com/jskj/course/util/C3p0Util.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="24" column="26" lean-forward="false" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jskj/course/servlet/RegistServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="24" column="36" lean-forward="false" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jskj/course/util/MD5Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="9" column="31" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jskj/course/TestDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="20" column="22" lean-forward="false" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jskj/course/util/C3p0Util.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="27" column="9" lean-forward="false" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+          <folding>
+            <marker date="1497936370921" expanded="true" signature="1001:1136" ph="insert into user... " />
+            <marker date="1497936370921" expanded="true" signature="1355:1403" ph="select * fro... user" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jskj/course/servlet/LoginServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="23" column="49" lean-forward="false" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
           <folding />
@@ -994,10 +1205,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="24" column="26" lean-forward="false" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
-          <folding>
-            <marker date="1497698228835" expanded="true" signature="651:766" ph="insert into user... " />
-            <marker date="1497698228835" expanded="true" signature="985:1033" ph="select * fro... user" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1013,9 +1220,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="9" column="31" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1040,9 +1245,8 @@
         <state relative-caret-position="608">
           <caret line="38" column="54" lean-forward="false" selection-start-line="38" selection-start-column="54" selection-end-line="38" selection-end-column="54" />
           <folding>
-            <marker date="1497698227374" expanded="true" signature="1001:1071" ph="insert into user... " />
-            <marker date="1497698227374" expanded="true" signature="1001:1136" ph="insert into user... " />
-            <marker date="1497698227374" expanded="true" signature="1355:1403" ph="select * fro... user" />
+            <marker date="1497936370921" expanded="true" signature="1001:1136" ph="insert into user... " />
+            <marker date="1497936370921" expanded="true" signature="1355:1403" ph="select * fro... user" />
           </folding>
         </state>
       </provider>
@@ -1124,43 +1328,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/out/artifacts/CourseServer_war_exploded/WEB-INF/classes/com/jskj/course/util/C3p0Util.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="24" column="26" lean-forward="false" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
-          <folding>
-            <marker date="1497698228835" expanded="true" signature="651:766" ph="insert into user... " />
-            <marker date="1497698228835" expanded="true" signature="985:1033" ph="select * fro... user" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jskj/course/servlet/LoginServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="23" column="49" lean-forward="false" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
+        <state relative-caret-position="580">
           <caret line="20" column="22" lean-forward="false" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/Java/jdk1.8/src.zip!/java/security/MessageDigest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="150" column="81" lean-forward="true" selection-start-line="150" selection-start-column="81" selection-end-line="150" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://D:/Java/jdk1.8/src.zip!/java/security/MessageDigest.java" />
     <entry file="file://$PROJECT_DIR$/src/com/jskj/course/TestDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
+        <state relative-caret-position="174">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
@@ -1168,7 +1347,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/jskj/course/servlet/RegistServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
+        <state relative-caret-position="377">
           <caret line="24" column="36" lean-forward="false" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
           <folding />
         </state>
@@ -1176,23 +1355,75 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/jskj/course/util/MD5Utils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
+        <state relative-caret-position="232">
           <caret line="9" column="31" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/artifacts/CourseServer_war_exploded/WEB-INF/classes/com/jskj/course/util/C3p0Util.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="69" column="41" lean-forward="false" selection-start-line="69" selection-start-column="37" selection-end-line="69" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jskj/course/servlet/LoginServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="23" column="49" lean-forward="false" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/jskj/course/util/C3p0Util.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-399">
-          <caret line="27" column="9" lean-forward="false" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+        <state relative-caret-position="493">
+          <caret line="23" column="41" lean-forward="false" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
           <folding>
-            <marker date="1497698227374" expanded="true" signature="1001:1071" ph="insert into user... " />
-            <marker date="1497698227374" expanded="true" signature="1001:1136" ph="insert into user... " />
-            <marker date="1497698227374" expanded="true" signature="1355:1403" ph="select * fro... user" />
+            <marker date="1497936370921" expanded="true" signature="1001:1136" ph="insert into user... " />
+            <marker date="1497936370921" expanded="true" signature="1355:1403" ph="select * fro... user" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/json/category.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/artifacts/CourseServer_war_exploded/category.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/artifacts/CourseServer_war_exploded/all_course.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="8" column="42" lean-forward="false" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/artifacts/CourseServer_war_exploded/HOME_URL.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="20" column="8" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/json/all_course.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="20" column="36" lean-forward="false" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1262,6 +1493,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>junit:junit:4.12</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

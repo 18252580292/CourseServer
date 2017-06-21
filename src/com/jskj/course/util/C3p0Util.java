@@ -21,7 +21,7 @@ public class C3p0Util {
             mDataSource.setDriverClass("com.mysql.jdbc.Driver");
             mDataSource.setJdbcUrl("jdbc:mysql://localhost:3306/course");
             mDataSource.setUser("root");
-            mDataSource.setPassword("ROOT");
+            mDataSource.setPassword("root");
             conn = mDataSource.getConnection();
         } catch (Exception e) {
             e.printStackTrace();

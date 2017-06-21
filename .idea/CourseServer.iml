@@ -32,6 +32,5 @@
       </library>
     </orderEntry>
     <orderEntry type="library" scope="PROVIDED" name="Tomcat 7.0.64" level="application_server_libraries" />
-    <orderEntry type="library" name="junit:junit:4.12" level="project" />
   </component>
 </module>
