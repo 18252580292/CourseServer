@@ -1,0 +1,21 @@
+{
+  "code": 200,
+  "msg": "success",
+  "content":"图像相关",
+  "course": [
+    {
+      "cover_price": "159.00",
+      "figure": "/1477984931882.jpg",
+      "name": "计算机视觉",
+      "url": "/video/major/computer_vision_01.mp4",
+      "product_id": "10391"
+    },
+    {
+      "cover_price": "29.00",
+      "figure": "/1452161899947.jpg",
+      "name": "模式识别",
+      "url": "/video/major/pattern_recognize.mp4",
+      "product_id": "3831"
+    }
+  ]
+}

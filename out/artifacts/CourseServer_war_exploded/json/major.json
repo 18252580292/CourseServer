@@ -1,0 +1,49 @@
+{
+  "code": 200,
+  "msg": "success",
+  "content":"专业课程",
+  "course": [
+    {
+      "cover_price": "159.00",
+      "figure": "/1477984921265.jpg",
+      "name": "通信原理",
+      "url": "/video/math/communication_01.mp4",
+      "product_id": "9356"
+    },
+    {
+      "cover_price": "159.00",
+      "figure": "/1477984931882.jpg",
+      "name": "计算机视觉",
+      "url": "/video/major/computer_vision_01.mp4",
+      "product_id": "10391"
+    },
+    {
+      "cover_price": "29.00",
+      "figure": "/1452161899947.jpg",
+      "name": "现代通信原野",
+      "url": "/video/major/modern_communication_01.mp4",
+      "product_id": "3831"
+    },
+    {
+      "cover_price": "29.00",
+      "figure": "/1452161899947.jpg",
+      "name": "神经网络",
+      "url": "/video/major/neural_net_01.mp4",
+      "product_id": "3831"
+    },
+    {
+      "cover_price": "29.00",
+      "figure": "/1452161899947.jpg",
+      "name": "模式识别",
+      "url": "/video/major/pattern_recognize.mp4",
+      "product_id": "3831"
+    },
+    {
+      "cover_price": "29.00",
+      "figure": "/1452161899947.jpg",
+      "name": "信号与系统",
+      "url": "/video/major/signal_and_system_01.mp4",
+      "product_id": "3831"
+    }
+  ]
+}

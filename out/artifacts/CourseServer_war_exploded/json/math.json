@@ -1,0 +1,28 @@
+{
+  "code": 200,
+  "msg": "success",
+  "content":"数学",
+  "course": [
+    {
+      "cover_price": "159.00",
+      "figure": "/1477984921265.jpg",
+      "name": "高等数学",
+      "url": "/video/math/higher_math_01.mp4",
+      "product_id": "9356"
+    },
+    {
+      "cover_price": "159.00",
+      "figure": "/1477984931882.jpg",
+      "name": "线性代数",
+      "url": "/video/major/linear_algebra_01.mp4",
+      "product_id": "10391"
+    },
+    {
+      "cover_price": "29.00",
+      "figure": "/1452161899947.jpg",
+      "name": "概率论",
+      "url": "/video/major/probability_theory.mp4",
+      "product_id": "3831"
+    }
+  ]
+}

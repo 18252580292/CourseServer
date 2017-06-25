@@ -1,0 +1,35 @@
+{
+  "code": 200,
+  "msg": "success",
+  "content":"语言课程",
+  "course": [
+    {
+      "cover_price": "159.00",
+      "figure": "/1477984921265.jpg",
+      "name": "英语",
+      "url": "/video/english/english_01.mp4",
+      "product_id": "9356"
+    },
+    {
+      "cover_price": "159.00",
+      "figure": "/1477984931882.jpg",
+      "name": "阅读",
+      "url": "/video/english/read_01.mp4",
+      "product_id": "10391"
+    },
+    {
+      "cover_price": "29.00",
+      "figure": "/1452161899947.jpg",
+      "name": "听力",
+      "url": "/video/english/listen_01.mp4",
+      "product_id": "3831"
+    },
+    {
+      "cover_price": "29.00",
+      "figure": "/1452161899947.jpg",
+      "name": "口语",
+      "url": "/video/english/speak.mp4",
+      "product_id": "3831"
+    }
+  ]
+}
