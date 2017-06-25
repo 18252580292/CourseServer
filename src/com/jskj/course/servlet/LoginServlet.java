@@ -5,6 +5,7 @@ import com.jskj.course.UserStatusResult;
 import com.jskj.course.domain.Result;
 import com.jskj.course.domain.User;
 import com.jskj.course.util.C3p0Util;
+import com.jskj.course.util.MD5Utils;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
@@ -28,7 +29,7 @@ public class LoginServlet extends HttpServlet {
                 result.code = UserStatusResult.USER_NOT_EXIST;
                 result.msg = "用户不存在";
             } else {
-                if (password.equals(user.getPassword())) {
+                if (MD5Utils.getMd5(password).equals(user.getPassword())) {
                     result = new Result();
                     result.code = UserStatusResult.SUCCESS_CODE;
                     result.msg = "登录成功";
